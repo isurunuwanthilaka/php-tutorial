@@ -1,6 +1,3 @@
 <?php
  
- $firstName= "isuru";
- $lastName = "nuwanthilaka";
-
- echo($firstName.$lastName);
+ echo("Hello World");
